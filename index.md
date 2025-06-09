@@ -59,7 +59,9 @@ In the long term, the project will expand to include:
 **_Acknowledgments_**
 
 **OWASP WARM** is supported by the APPtake project ([www.apptake.eu](https://www.apptake.eu)). APPtake is funded under Grant Agreement No. ​101128082​ by the European Cybersecurity Competence Centre.
-![APPTake Logo](assets/images/EU_projects_logos/APPTAKE_Logo.png)
-![ECCC Logo](assets/images/EU_projects_logos/ECCC_Logo.png)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets/images/EU_projects_logos/APPTAKE_Logo.png" alt="APPTake Logo" width="200"/>
+  <img src="assets/images/EU_projects_logos/ECCC_Logo.png" alt="ECCC Logo" width="200"/>
+</div>
 
 **OWASP WARM** is supported by the KINAITICS project ([http://kinaitics.eu](http://kinaitics.eu)). KINAITICS has received funding from Horizon Europe under Grant Agreement No. 101070176.
