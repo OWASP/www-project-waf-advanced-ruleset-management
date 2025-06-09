@@ -66,6 +66,7 @@ In the long term, the project will expand to include:
 
 **OWASP WARM** empowers security teams to replace trial-and-error tuning with data-driven optimization, turning WAF rule management into a continuous and intelligent security enhancement process.
 
+⸻
 
 **_Acknowledgments_**
 
