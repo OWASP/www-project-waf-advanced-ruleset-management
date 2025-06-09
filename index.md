@@ -53,4 +53,6 @@ WARM empowers security teams to replace trial-and-error tuning with data-driven 
 
 
 **_Acknowledgments_**
-OWASP WARM is supported by the APPtake project (www.apptake.eu). APPtake funded under Grant Agreement No. ​101128082​ is supported by the European Cybersecurity Competence Centre.
+OWASP WARM is supported by the APPtake project (www.apptake.eu). APPtake is funded under Grant Agreement No. ​101128082​ by the European Cybersecurity Competence Centre.
+
+OWASP WARM is supported by the KINAITICS project (www.kinaitics.eu). KINAITICS has received funding from Horizon Europe under Grant Agreement No. 101070176.
