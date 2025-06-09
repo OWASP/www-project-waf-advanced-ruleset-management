@@ -10,7 +10,7 @@ pitch: A very brief, one-line description of your project
 ---
 # OWASP WARM – WAF Advanced Ruleset Management
 
-<img src="assets/images/logos/png/ColorLogo_noBackground.png" alt="OWASP WARM Logo" width="400"/>
+<img src="assets/images/logos/png/ColorLogo_noBackground.png" alt="OWASP WARM Logo" width="600"/>
 
 ⸻
 
@@ -65,3 +65,7 @@ In the long term, the project will expand to include:
 </div>
 
 **OWASP WARM** is supported by the KINAITICS project ([http://kinaitics.eu](http://kinaitics.eu)). KINAITICS has received funding from Horizon Europe under Grant Agreement No. 101070176.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets/images/EU_projects_logos/KINAITICS_Logo.png" alt="APPTake Logo" width="400"/>
+  <img src="assets/images/EU_projects_logos/HORIZON2020_Logo.png" alt="ECCC Logo" width="300"/>
+</div>
