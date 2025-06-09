@@ -36,6 +36,17 @@ The project will focus on applying this method in real deployment environments, 
 
 ⸻
 
+### Research
+The following two scientific papers provide the foundational background for the **OWASP WARM** project:
+
+- **[ModSec-Learn: Boosting ModSecurity with Machine Learning](https://arxiv.org/abs/2406.13547)**  
+  This paper introduces a machine learning-based approach to improve the effectiveness of ModSecurity, the most widely adopted open-source Web Application Firewall (WAF).
+
+- **[Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning](https://arxiv.org/abs/2308.04964)**  
+  This study explores how adversarial examples can bypass WAF protections and presents a robust machine learning strategy to enhance SQL injection detection.
+
+⸻
+
 ### Roadmap
 
 Within the first 12 months, the project aims to deliver:
