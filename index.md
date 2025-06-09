@@ -48,3 +48,7 @@ In the long term, the project will expand to include:
 	•	continuously updated documentation to track project progress.
 
 WARM empowers security teams to replace trial-and-error tuning with data-driven optimization, turning WAF rule management into a continuous and intelligent security enhancement process.
+
+
+**_Acknowledgments_**
+OWASP WARM is supported by the APPtake project (www.apptake.eu). APPtake funded under Grant Agreement No. ​101128082​ is supported by the European Cybersecurity Competence Centre.
