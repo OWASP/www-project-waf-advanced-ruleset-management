@@ -76,7 +76,7 @@ In the long term, the project will expand to include:
   <img src="assets/images/EU_projects_logos/ECCC_Logo.png" alt="ECCC Logo" width="300"/>
 </div>
 
-**OWASP WARM** is supported by the *KINAITICS* project ([http://kinaitics.eu](kinaitics.eu)). *KINAITICS* has received funding from *Horizon Europe* under Grant Agreement No. 101070176.
+**OWASP WARM** is supported by the *KINAITICS* project ([kinaitics.eu](http://kinaitics.eu)). *KINAITICS* has received funding from *Horizon Europe* under Grant Agreement No. 101070176.
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/images/EU_projects_logos/KINAITICS_Logo.jpg" alt="KINAITICS Logo" width="300"/>
   <img src="assets/images/EU_projects_logos/HORIZON2020_Logo.png" alt="ECCC Logo" width="300"/>
