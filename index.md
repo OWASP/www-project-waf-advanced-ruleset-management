@@ -10,7 +10,7 @@ pitch: A very brief, one-line description of your project
 ---
 # OWASP WARM – WAF Advanced Ruleset Management
 
-![OWASP WARM Logo](assets/images/logos/png/Color%20logo%20with%20background.png)
+![OWASP WARM Logo](assets/images/logos/png/ColorLogo_noBackground.png)
 
 ⸻
 
@@ -59,5 +59,7 @@ In the long term, the project will expand to include:
 **_Acknowledgments_**
 
 **OWASP WARM** is supported by the APPtake project (www.apptake.eu). APPtake is funded under Grant Agreement No. ​101128082​ by the European Cybersecurity Competence Centre.
+![APPTake Logo](assets/images/EU_projects_logos/APPTAKE_Logo.png)
+![ECCC Logo](assets/images/EU_projects_logos/ECCC_Logo.png)
 
 **OWASP WARM** is supported by the KINAITICS project (www.kinaitics.eu). KINAITICS has received funding from Horizon Europe under Grant Agreement No. 101070176.
