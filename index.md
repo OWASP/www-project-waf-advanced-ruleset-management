@@ -35,20 +35,24 @@ The project will focus on applying this method in real deployment environments, 
 ### Roadmap
 
 Within the first 12 months, the project aims to deliver:
-	•	documentation explaining the problem and proposed approach;
-	•	public datasets to reproduce experiments from the referenced study “ModSec-Learn: Boosting ModSecurity with Machine Learning”;
-	•	a first dataset of legitimate traffic;
-	•	a dataset of malicious traffic focused on SQL injection (SQLi) attacks;
-	•	code and scripts to run the optimization process and update the scores of SQLi rules in production CRS-based environments.
+
+- Documentation explaining the problem and proposed approach  
+- Public datasets to reproduce experiments from the referenced study *“ModSec-Learn: Boosting ModSecurity with Machine Learning”*  
+- A first dataset of legitimate traffic  
+- A dataset of malicious traffic focused on SQL injection (SQLi) attacks  
+- Code and scripts to run the optimization process and update the scores of SQLi rules in production CRS-based environments  
 
 In the long term, the project will expand to include:
-	•	support for other attack categories (beyond SQLi);
-	•	production-ready tools to apply optimization on live traffic and deploy the resulting ruleset easily;
-	•	performance evaluations on benchmark environments using the provided datasets;
-	•	continuously updated documentation to track project progress.
+
+- Support for other attack categories (beyond SQLi)  
+- Production-ready tools to apply optimization on live traffic and deploy the resulting ruleset easily  
+- Performance evaluations on benchmark environments using the provided datasets  
+- Continuously updated documentation to track project progress
 
 WARM empowers security teams to replace trial-and-error tuning with data-driven optimization, turning WAF rule management into a continuous and intelligent security enhancement process.
 
 
 **_Acknowledgments_**
-OWASP WARM is supported by the APPtake project (www.apptake.eu). APPtake funded under Grant Agreement No. ​101128082​ is supported by the European Cybersecurity Competence Centre.
+OWASP WARM is supported by the APPtake project (www.apptake.eu). APPtake is funded under Grant Agreement No. ​101128082​ by the European Cybersecurity Competence Centre.
+
+OWASP WARM is supported by the KINAITICS project (www.kinaitics.eu). KINAITICS has received funding from Horizon Europe under Grant Agreement No. 101070176.
