@@ -10,7 +10,7 @@
 * [Meetup](#)
 
 ### Code Repository
-* [repo](https://github.com/pluribus-one/waf-advanced-ruleset-management)
+* [repo](#)
 
 ### Change Log
 * [changes](#)
